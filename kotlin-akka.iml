@@ -7,6 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="akka-2.10" level="project" />
+    <orderEntry type="library" name="KotlinRuntime" level="project" />
   </component>
 </module>
 
